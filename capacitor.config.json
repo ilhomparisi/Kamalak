@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.app",
+  "appName": "Kamalak",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "launchDuration": 0,
+      "launchAutoHide": false,
+      "backgroundColor": "#000000"
+    }
+  }
+}
